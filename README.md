@@ -1,140 +1,51 @@
-<!DOCTYPE html><!-- Last Published: Mon Aug 14 2023 06:49:13 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.Gnana-Sai.com" data-wf-page="5d51d2e328fbf037d069f93c" data-wf-site="5343bca08039b78d170002c4"><head><meta charset="utf-8"/><title>Gnana Sai – Contact</title><meta content="Gnana Sai – Contact" property="og:title"/><meta content=" " property="og:image"/><meta content="Gnana Sai – Contact" property="twitter:title"/><meta content=" " property="twitter:image"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Webflow" name="generator"/><link href="https://uploads-ssl.webflow.com/5343bca08039b78d170002c4/css/Gnanasai.webflow.cea2c8ad5.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic","PT Serif:400,400italic,700,700italic","Cormorant:regular,italic,600,600italic,700,700italic","Work Sans:regular,600,700"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href= "img/e.png" rel="shortcut icon" type="image/x-icon"/><link href="img/e.jpg" rel="apple-touch-icon"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-147517524-1"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-147517524-1', {'anonymize_ip': false});</script><style>
-  
-  ::selection {
-  	background: #1c1a1a;
-    color: #c8b19e;
-  }
-  ::-moz-selection {
-    background: #1c1a1a;
-    color: #c8b19e;
-  }
-  
-  .work-content figure {
-    box-shadow: 0 30px 60px rgba(0,0,0, 0.1);
-	margin-bottom: 8em;
-  }
-  
-  .work-content p {
-    margin-bottom: 5em;
-  }
-  
-  .work-content.work-content-alt figure {
-    box-shadow: none;
-  }
-  
-  .work-content ul,
-  .work-content ol {
-    font-size: 18px;
-    line-height: 3;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 24px;
-    margin-bottom: 5em;
-    max-width: 768px;
-  }
-  
-  .w-richtext figure.w-richtext-align-floatleft {
-    margin-right: 0;
-    width: 20%;
-    padding-right: 1%;
-    padding-left: 1%;
-    box-shadow: none;
-  }
-  
-  @media all and (max-width: 991px) {
-    
-    .work-content figure,
-    .work-content p {
-      margin-bottom: 2.5em;
-    }
-    
-    .work-content figure {
-      max-width: 100%;
-    }
-    
-    .work-content ul,
-    .work-content ol {
-      font-size: 14px;
-      line-height: 2;
-      padding-left: 20px;
-      margin-bottom: 2.5em;
-      max-width: 90%;
-    }
-  }
-  
-  @media all and (min-width: 991px) and (max-width: 1024px) {
-    
-    .section-left {
-      position: static;
-      width: 100%;
-      height: auto;
-      padding-top: 30%;
-    }
-    
-    .section-right {
-      display: block;
-      width: 100%;
-      height: auto;
-      padding-top: 0;
-    }
-    
-    .content.content-main {
-      padding-top: 0;
-      margin-left: 0;
-    }
-    
-    .nav {
-      padding-top: 15%;
-      padding-left: 0%;
-    }
-    
-    .nav-item {
-      display: block;
-      padding-bottom: 5%;
-    }
-    
-    .nav-link,
-    .nav-link.is-pink {
-      font-size: 18vw;
-      letter-spacing: -5px;
-    }
-    
-    .nav-underline {
-      display: none;
-    }
-    
-    .nav-left {
-      width: 10%;
-      padding-left: 6px;
-    }
-    
-    .section-right.section-long {
-      padding-top: 0%;
-      padding-left: 0%;
-    }
-    
-    .header.header-small {
-      display: none;
-    }
-  }
-  
-  @media all and (min-width: 992px) and (max-width: 1600px) {
-    
-    .wrapper.wrapper-small {
-      max-width: 95%;
-      padding-left: 10%;
-    }
-  }
-  
-  @media all and (min-width: 1025px) and (max-width: 1439px) {
-    
-    .header.header-small {
-      font-size: 10px;
-      left: 10%;
-      bottom: -7px;
-      letter-spacing: 2px;
-    }
-  }
-      
-  
-</style></head><body class="bg-blue"><div class="background bg-pink bg-top"></div><div class="elements"><img src="https://uploads-ssl.webflow.com/5343bca08039b78d170002c4/5d6ecda47788c4cd1df8cead_type-bg.png" alt="" class="element-item"/></div><div class="container"><div class="nav-left"><div class="nav-left-item"><a href="index.html" class="nav-left-link is-pink">HOME</a></div><div class="nav-line is-pink"></div><div class="nav-left-item nav-copyright"><div class="copyright">©/2024</div></div></div><div class="wrapper"><div class="section-left"><div class="content"><div class="header-mask"><h1 class="header header-large align-left">Hello.</h1></div><div class="description-mask"><p style="-webkit-transform:translate3d(0, 178PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 178PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 178PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 178PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="description">Need a sleek Dashboard for managing and visualizing your data? Get in touch.<a href="https://forms.gle/1YAyDvxrKjayzvZy7" target="_blank" class="link is-pink"></a><br/>‍<br/>Email: <a href="mailto:Gnanasai2030@gmail.com" class="link is-pink">Gnanasai2030@gmail.com</a> <br/>On the Internet: <a href="https://www.linkedin.com/in/gs021" class="link is-pink">LinkedIn</a> / <a href="https://www.twitter.com/Gnanasaias" class="link is-pink">Twitter</a> / <a href="https://www.github.com/Gnanahub" class="link is-pink">Github</a><br/></p></div></div></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5343bca08039b78d170002c4" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://uploads-ssl.webflow.com/5343bca08039b78d170002c4/js/webflow.12626ba79.js" type="text/javascript"></script></body></html>
+<div align="center">
+<img width="500" alt="desktop-oil-painting" src=" ">
+</div>
+
+<h1 align="center">Hi I'm Gnana Sai</h1>
+<h3 align="center"> A passionate Data Scientist from Bengaluru, India</h3>
+
+
+<p align="left"> <a href="https://twitter.com/Gnanasaias" target="blank"><img src="https://img.shields.io/twitter/follow/Gnanasaias?logo=twitter&style=for-the-badge" alt="Gnanasaias" /></a> </p>
+
+- 🔭 I’m currently working on [NLP](https://github.com/Gnanahub/Machine-Learning-and-Deep-Learning/)
+
+- 🌱 I’m currently learning **Transformer** and participating in hackathons
+
+- 👨‍💻 All of my projects are available on [My github website]
+
+- 📝 I regularly write articles on [https://medium.com/@gnanasai2030](https://medium.com/@gnanasai2030)
+
+- 💬 Ask me about **Python, UX**
+
+- 📫 How to reach me - Send an email [Gnanasai2030@gmail.com ](Gnanasai2030@gmail.com), [DM me on twitter]((https://twitter.com/messages)). Always happy to talk!
+
+- ⚡ Fun fact **I love Anime**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dhravya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhravya" height="30" width="40" /></a>
+<a href="https://twitter.com/dhravyashah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhravyashah" height="30" width="40" /></a>
+<a href="https://instagram.com/dhravyashah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhravyashah" height="30" width="40" /></a>
+<a href="https://discord.gg/z7MZYhmx6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="z7MZYhmx6w" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+
+
+
+<details>
+  <summary>Github Stats</summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhravya&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="dhravya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhravya&show_icons=true&locale=en&theme=cobalt" alt="dhravya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhravya&theme=cobalt" alt="dhravya" /></p>
+</details>
+<img src="https://profile-counter.glitch.me/dhravya/count.svg" alt="dhravya :: Visitor's Count" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhravya" alt="dhravya" /></a> </p>
