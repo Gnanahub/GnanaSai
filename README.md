@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available on [My github website]
 
-- 📝 I regularly write articles on [https://medium.com/@gnanasai2030](https://medium.com/@gnanasai2030)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@gnanasai2030)
 
 - 💬 Ask me about **Python, UX**
 
