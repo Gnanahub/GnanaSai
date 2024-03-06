@@ -1,6 +1,3 @@
-<div align="center">
-<img width="500" alt="desktop-oil-painting" src=" ">
-</div>
 
 <h1 align="center">Hi I'm Gnana Sai</h1>
 <h3 align="center"> A passionate Data Scientist from Bengaluru, India</h3>
